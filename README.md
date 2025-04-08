@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mpandeyintel
+- 👋 Hi, I’m Mayank Pandey, a software engineer
 - 👀 I’m interested in coding my way up
 - 🌱 I’m currently learning Machine learning & Deep learning
 - 💞️ I’m looking to collaborate on development ideas
